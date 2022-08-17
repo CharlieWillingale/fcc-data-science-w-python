@@ -1,4 +1,4 @@
-### rmotr.com
-# Data Science with Python Course
+# Data Science with Python Course 
+## From freecodecamp
 
-This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
+Exercises and projects from the freecodecamp course for Data Science with python course
